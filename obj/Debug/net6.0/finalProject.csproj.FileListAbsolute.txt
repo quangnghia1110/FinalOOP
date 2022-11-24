@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\obj\Debug\net6.0\finalProject.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\obj\Debug\net6.0\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\obj\Debug\net6.0\finalProject.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\obj\Debug\net6.0\finalProject.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\obj\Debug\net6.0\finalProject.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\bin\Debug\net6.0\finalProject.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\bin\Debug\net6.0\finalProject.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\bin\Debug\net6.0\finalProject.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\bin\Debug\net6.0\finalProject.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\bin\Debug\net6.0\finalProject.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\obj\Debug\net6.0\finalProject.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\obj\Debug\net6.0\refint\finalProject.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\obj\Debug\net6.0\finalProject.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\obj\Debug\net6.0\finalProject.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\finalProject\finalProject\obj\Debug\net6.0\ref\finalProject.dll
